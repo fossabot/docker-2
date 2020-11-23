@@ -1,6 +1,7 @@
 # Docker Cookbook
 
 [![Build Status](https://travis-ci.org/chef-cookbooks/docker.svg?branch=master)](https://travis-ci.org/chef-cookbooks/docker) [![Cookbook Version](https://img.shields.io/cookbook/v/docker.svg)](https://supermarket.chef.io/cookbooks/docker)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fliuyan707124617%2Fdocker.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fliuyan707124617%2Fdocker?ref=badge_shield)
 
 The Docker Cookbook provides resources for installing docker as well as building, managing, and running docker containers.
 
@@ -1386,3 +1387,6 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 ```
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fliuyan707124617%2Fdocker.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fliuyan707124617%2Fdocker?ref=badge_large)
